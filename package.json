@@ -1,7 +1,7 @@
 {
   "name": "redux-demo",
   "version": "1.0.0",
-  "description": "clearing some redux concept",
+  "description": "redux concept",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
